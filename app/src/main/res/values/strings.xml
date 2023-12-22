@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Challenge1</string>
+    <string name="sex">Sex</string>
+    <string name="phone">Phone</string>
+    <string name="full_name">Full Name</string>
+    <string name="regeristation">Regeristation</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="address">Address</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="conditions">Conditions</string>
+    <string name="work">Work</string>
+    <string name="smoke">Smoke</string>
+    <string name="workout">Workout</string>
+    <string name="registration">Registration</string>
+</resources>
